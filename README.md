@@ -62,7 +62,7 @@ Whether the element should be visible to begin with or not. If animateIn is an e
 
 How long to delay the animation for (in milliseconds) once it enters or leaves the view.
 
-**animateOnce** - default false
+**animateOnce** - default true
 
 Whether the element should only animate once or not.
 
