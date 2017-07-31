@@ -126,7 +126,7 @@ ScrollAnimation.defaultProps = {
   duration: 1,
   initiallyVisible: false,
   delay: 0,
-  animateOnce: false
+  animateOnce: true
 };
 
 ScrollAnimation.propTypes = {
